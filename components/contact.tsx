@@ -120,7 +120,7 @@ export function Contact() {
           }}
         >
           <p className="text-sm text-muted-foreground">
-            Based in San Francisco • Open to remote work worldwide
+            Based in India • Open to remote work worldwide
           </p>
         </div>
       </div>
